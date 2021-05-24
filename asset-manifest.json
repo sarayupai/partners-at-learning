@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/partners-at-learning/static/css/main.7d36df06.chunk.css",
-    "main.js": "/partners-at-learning/static/js/main.ac619298.chunk.js",
-    "main.js.map": "/partners-at-learning/static/js/main.ac619298.chunk.js.map",
+    "main.js": "/partners-at-learning/static/js/main.c8ab5a2c.chunk.js",
+    "main.js.map": "/partners-at-learning/static/js/main.c8ab5a2c.chunk.js.map",
     "runtime-main.js": "/partners-at-learning/static/js/runtime-main.0921c501.js",
     "runtime-main.js.map": "/partners-at-learning/static/js/runtime-main.0921c501.js.map",
     "static/js/2.54e17ff0.chunk.js": "/partners-at-learning/static/js/2.54e17ff0.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.0921c501.js",
     "static/js/2.54e17ff0.chunk.js",
     "static/css/main.7d36df06.chunk.css",
-    "static/js/main.ac619298.chunk.js"
+    "static/js/main.c8ab5a2c.chunk.js"
   ]
 }
