@@ -1,0 +1,41 @@
+.activities-container {
+    background-color: #b2b2a2;
+    /*height: 100vh;*/
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    /*justify-content: center;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.2);*/ 
+    object-fit: contain;
+}
+.activities-header {
+    background-image: url('./images/img-1.jpg');
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #a7d489;
+    font-size: 60px;    
+}
+
+.activities {
+    margin: 20px;
+}
+
+.activity-1 > p {
+    margin: 15px;
+}
+
+.activity-1 > h2 {
+    padding-bottom: 15px;
+}
+
+.activity-2 > p {
+    margin: 20px;
+}
+
+.activity-2 > h2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
